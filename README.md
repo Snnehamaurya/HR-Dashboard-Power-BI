@@ -1,4 +1,4 @@
-******📊 HR Analytics Dashboard**********
+******📊 HR Analytics Dashboard******
 
 
 Welcome to the HR Analytics Dashboard project! This dashboard provides a comprehensive visual analysis of employee data to help HR teams make informed decisions about workforce planning, performance, attrition, and satisfaction.
